@@ -1,9 +1,9 @@
 import { motion } from "framer-motion";
 
 const team = [
-  { name: "John Doe", role: "CEO", image: "/path-to-image1.jpg" },
-  { name: "Jane Smith", role: "CTO", image: "/path-to-image2.jpg" },
-  { name: "Sam Johnson", role: "Designer", image: "/path-to-image3.jpg" },
+  { name: "John Doe", role: "CEO", image: "/src/assets/b.webp" },
+  { name: "Jane Smith", role: "CTO", image: "/src/assets/a.webp" },
+  { name: "Sam Johnson", role: "Designer", image: "/src/assets/a.webp" },
 ];
 
 export default function Team() {
