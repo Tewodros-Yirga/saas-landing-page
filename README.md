@@ -60,6 +60,12 @@ This project is a fully responsive landing page for a SaaS product. It includes 
  - ┣ 📜 tailwind.config.js
  - ┗ 📜 README.md
 
+---
+## 🔗 Live Demo
+
+Check out the live demo of the project:
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Now-green?style=for-the-badge)](https://Tewodros-Yirga.github.io/saas-landing-page/)
  
 ---
 
