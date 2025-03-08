@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with TaskFlow",
+    "date": "2023-10-01",
+    "featuredImage": "/images/blog1.jpg",
+    "tags": ["Getting Started", "Productivity"],
+    "content": "## Introduction\nTaskFlow is a powerful project management tool designed to help teams collaborate and manage tasks efficiently.\n\n## Features\n- **Task Management**: Create, assign, and track tasks.\n- **Team Collaboration**: Real-time chat and file sharing.\n- **Progress Tracking**: Visualize project progress with Kanban boards.\n\n```javascript\nconsole.log('Hello, TaskFlow!');\n```"
+  },
+  {
+    "id": 2,
+    "title": "Advanced Analytics in TaskFlow",
+    "date": "2023-10-15",
+    "featuredImage": "/images/blog2.jpg",
+    "tags": ["Analytics", "Data"],
+    "content": "## Introduction\nTaskFlow now offers advanced analytics to help you make data-driven decisions.\n\n## Key Metrics\n- **Task Completion Rate**: Track how many tasks are completed on time.\n- **Team Performance**: Analyze individual and team performance.\n\n```python\nprint('Analyze your data with TaskFlow!')\n```"
+  }
+]

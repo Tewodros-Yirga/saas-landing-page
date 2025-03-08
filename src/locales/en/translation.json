@@ -1,0 +1,16 @@
+{
+  "welcome": "Welcome to TaskFlow",
+  "description": "Streamline your workflow with our powerful project management tool.",
+  "features": "Features",
+  "pricing": "Pricing",
+  "testimonials": "Testimonials",
+  "faq": "FAQ",
+  "more": "More",
+  "blog": "Blog",
+  "careers": "Careers",
+  "support": "Support",
+  "login": "Login",
+  "logout": "Logout",
+  "getStarted": "Get Started",
+  "learnMore": "Learn More"
+}

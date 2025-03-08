@@ -1,0 +1,18 @@
+[
+    {
+      "question": "What is TaskFlow?",
+      "answer": "TaskFlow is a project management tool designed to help teams collaborate and manage tasks efficiently."
+    },
+    {
+      "question": "How do I get started?",
+      "answer": "Simply sign up for an account, create a project, and start adding tasks."
+    },
+    {
+      "question": "Is there a free plan?",
+      "answer": "Yes, we offer a free plan with basic features. You can upgrade to a paid plan for more advanced features."
+    },
+    {
+      "question": "Can I cancel my subscription?",
+      "answer": "Yes, you can cancel your subscription at any time from your account settings."
+    }
+  ]

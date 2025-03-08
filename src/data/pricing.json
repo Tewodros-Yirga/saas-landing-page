@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Free",
+      "price": "$0/month",
+      "description": "Perfect for individuals and small teams.",
+      "features": [
+        "Up to 5 projects",
+        "Basic analytics",
+        "1 GB storage",
+        "Email support"
+      ]
+    },
+    {
+      "name": "Pro",
+      "price": "$20/month",
+      "description": "For growing teams and businesses.",
+      "features": [
+        "Unlimited projects",
+        "Advanced analytics",
+        "10 GB storage",
+        "Priority support"
+      ]
+    },
+    {
+      "name": "Enterprise",
+      "price": "Custom",
+      "description": "For large organizations with custom needs.",
+      "features": [
+        "Unlimited projects",
+        "Advanced analytics",
+        "Unlimited storage",
+        "Dedicated account manager"
+      ]
+    }
+  ]

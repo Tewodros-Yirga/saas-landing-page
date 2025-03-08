@@ -1,0 +1,23 @@
+[
+    {
+      "name": "John Doe",
+      "company": "Acme Inc.",
+      "image": "/src/assets/b.webp",
+      "review": "TaskFlow has completely transformed how our team works. Highly recommended!",
+      "rating": 5
+    },
+    {
+      "name": "Jane Smith",
+      "company": "Globex Corp.",
+      "image": "/src/assets/a.webp",
+      "review": "The best project management tool we’ve ever used. It’s a game-changer!",
+      "rating": 5
+    },
+    {
+      "name": "Sam Johnson",
+      "company": "Initech",
+      "image": "/src/assets/a.webp",
+      "review": "TaskFlow is intuitive, powerful, and easy to use. Love it!",
+      "rating": 4
+    }
+  ]
